@@ -1,0 +1,381 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	margin: 0px;
+}
+
+
+
+.background-image {
+	background-image: url(images/ok.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 745px;
+	weight: 1080px;
+	background-position: center;
+	text-align: center;
+
+
+
+
+}
+
+
+
+
+
+
+.text-align {
+	text-align: center;
+
+	font-size: 85px;
+	color: aliceblue;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding-top: 200px;
+
+}
+
+.slogan {
+
+	font-size: medium;
+	color: antiquewhite;
+}
+
+.donate {
+	text-decoration: none;
+	font-size: 60px;
+	background-image: linear-gradient(yellow, orange);
+	color: black;
+	font-weight: 700;
+	padding: 10px 40px;
+	border-radius: 5px;
+
+}
+
+
+.headline {
+	text-align: center;
+	margin: 180px;
+	font-size: 40px;
+	font-weight: 400;
+
+
+}
+
+.tk-dimu {
+	padding-left: 22%;
+
+}
+
+.TK {
+
+	display: flex;
+	text-align: center;
+	box-shadow: 5px 5px 10px gray;
+
+
+
+}
+
+.hee {
+	background-image: linear-gradient(yellow, orange);
+	margin: 0;
+	border-radius: 10px;
+	text-align: center;
+	margin: 180px;
+	font-size: 70px;
+}
+
+.choose {
+	display: flex;
+	padding-left: 20%;
+
+
+}
+
+#bro {
+	border: 5px solid red;
+
+}
+
+
+.ability {
+	text-align: center;
+	background-color: bisque;
+}
+
+.other-bro {
+	text-align: center;
+}
+
+.donate-nai {
+	text-decoration: none;
+	font-size: 60px;
+	background-image: linear-gradient(yellow, orange);
+	color: black;
+	font-weight: 700;
+	padding-left: 45%;
+	padding-right: 55%;
+
+	border-radius: 5px;
+}
+
+
+
+
+.box {
+	font-size: 30px;
+
+	margin: right 5px;
+	margin-left: 20px;
+	padding: 20px;
+	box-shadow: 10px 10px 20px rgb(194, 194, 192);
+
+
+
+}
+
+#font-size {
+	font-size: 30px;
+}
+
+.container {
+	display: flex;
+	width: 25% height: auto;
+	font-size: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.rice {
+	background-color: #cccccc;
+	width: 1000px;
+	height: 400px;
+	margin-left: 400px;
+	background-image: url(images/food.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	font-size: 30px;
+	text-align: right;
+}
+
+
+
+.flexible-container {
+
+
+	display: flex;
+	margin: 100px;
+	font-size: 40px;
+}
+
+.half-width {
+	width: 50%;
+}
+
+#color {
+	color: orange;
+
+}
+
+
+
+
+.my-update {
+	text-align: center;
+	font-size: 40px;
+}
+
+.update {
+	font-size: 30px;
+}
+
+
+.from-box {
+	text-align: center;
+}
+
+
+
+
+.last {
+	text-align: center;
+	color: white;
+	margin: 90px;
+	background-color: black;
+	height: 250px;
+}
+
+.TEXT {
+	position: relative;
+	text-align: right;
+}
+
+
+.from-box {
+	text-align: center;
+}
+
+
+.flexible-container {
+
+
+	display: flex;
+	margin: 100px;
+	font-size: 40px;
+}
+
+.half-width {
+	width: 50%;
+}
+
+
+.contribute {
+
+	text-decoration: none;
+	font-size: 40px;
+	background-image: linear-gradient(yellow, orange);
+	color: black;
+	font-weight: 700;
+
+	border-radius: 5px;
+
+
+}
+
+
+
+
+
+.last {
+	text-align: center;
+	color: #cccccc;
+	background-color: black;
+	height: 250px;
+	margin-bottom: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+
+
+}
+
+
+.update {
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 30px;
+
+}
+
+.form {
+	background-color: lemonchiffon;
+	height: 250px;
+	margin-left: 20%;
+	margin-right: 20%;
+
+
+}
+
+
+.email {
+	font-size: 30px;
+	padding-top: 80px;
+
+
+}
+
+.footer {
+
+	margin: 0px;
+	padding-top: 80px;
+	color: brown;
+
+}
+
+
+
+
+.plan {
+
+	text-align: center;
+	font-size: 80px;
+
+}
+
+
+.flood {
+	text-align: center;
+	font-size: 40px;
+}
+
+
+.food {
+	text-align: left;
+	font-size: 20px;
+	background-color: aliceblue;
+	width: 400px;
+	height: 300px;
+	padding-top: 100px;
+	padding-left: 20px;
+	background-image: url(images/food.png);
+	background-repeat: no-repeat;
+
+}
+
+
+.Shelter {
+	text-align: left;
+	font-size: 20px;
+	background-color: antiquewhite;
+	width: 400px;
+	height: 300px;
+	padding-top: 100px;
+	padding-left: 20px;
+	background-image: url(images/shelter.png);
+	background-repeat: no-repeat;
+	margin: 20px;
+
+
+}
+
+
+
+.Education {
+	text-align: left;
+	font-size: 20px;
+	background-color: lemonchiffon;
+	width: 400px;
+	height: 300px;
+	padding-top: 100px;
+	padding-left: 20px;
+	background-image: url(images/Frame-1.png);
+	background-repeat: no-repeat;
+	margin-left: 2px;
+
+
+
+}
+
+
+
+
+
+
+
+
+.container-plan {
+
+	display: flex;
+	padding-left: 20%
+}
